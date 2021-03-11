@@ -45,11 +45,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/renatoReboucas/receitas10/pull/1) in [renatoReboucas/receitas10](https://github.com/renatoReboucas/receitas10)
-2. 🎉 Merged PR [#1](https://github.com/Mikael-R/receitas10-api/pull/1) in [Mikael-R/receitas10-api](https://github.com/Mikael-R/receitas10-api)
-3. 🗣 Commented on [#264](https://github.com/BrasilAPI/BrasilAPI/issues/264) in [BrasilAPI/BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)
-4. ❗️ Opened issue [#264](https://github.com/BrasilAPI/BrasilAPI/issues/264) in [BrasilAPI/BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)
-5. 🎉 Merged PR [#41](https://github.com/password-generator/password-generator-web/pull/41) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+1. 💪 Opened PR [#2](https://github.com/renatoReboucas/receitas10/pull/2) in [renatoReboucas/receitas10](https://github.com/renatoReboucas/receitas10)
+2. 💪 Opened PR [#1](https://github.com/renatoReboucas/receitas10/pull/1) in [renatoReboucas/receitas10](https://github.com/renatoReboucas/receitas10)
+3. 🎉 Merged PR [#1](https://github.com/Mikael-R/receitas10-api/pull/1) in [Mikael-R/receitas10-api](https://github.com/Mikael-R/receitas10-api)
+4. 🗣 Commented on [#264](https://github.com/BrasilAPI/BrasilAPI/issues/264) in [BrasilAPI/BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)
+5. ❗️ Opened issue [#264](https://github.com/BrasilAPI/BrasilAPI/issues/264) in [BrasilAPI/BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)
   [filipedeschamps/ideia-unica](https://github.com/filipedeschamps/ideia-unica)
   4. 🎉 Merged PR [#39](https://github.com/password-generator/password-generator-web/pull/39) in
   [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
