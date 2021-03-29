@@ -24,7 +24,7 @@
     <img align="left" alt="Mikael-R Twitter" width="22px"
       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://linkedin.com/in/mikael-rolim-522aa21b1">
+  <a href="https://linkedin.com/in/Mikael-R">
     <img align="left" alt="Mikael-R Linkdein" width="22px"
       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
