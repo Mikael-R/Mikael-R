@@ -3,14 +3,14 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="32px" alt="Drawing Cat Gif">
-  I'm a Mikael, Developer and Student!
+  I'm a Mikael, software developer!
 </h2>
 
-- 🔭 I’m currently working on [arquimat](https://github.com/Mikael-R/arquimat)
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently working on [receitas 10](https://github.com/Mikael-R/receitas10)
+- 📒 I’m currently learning Vue
 - 💡 I’m looking for job oportunities as a software developer
-- 💬 Ask me about Python, Javascript, Typescript and frameworks JS
-- 😄 Fun fact: I use Vim but I don't like i3wm!
+- 💬 Ask me about Javascript, Typescript and frameworks js
+- 😄 Fun fact: I don't like a light themes
 
 <h3>
   <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="22px"
