@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working on [arquimat](https://github.com/Mikael-R/arquimat)
 - 🌱 I’m currently learning Typescript
-- 💡 I’m looking to collaborate on open source projects
-- 👨🏻‍💻 I’m looking for help with JS/TS
+- 💡 I’m looking for job oportunities as a software developer
 - 💬 Ask me about Python, Javascript, Typescript and frameworks JS
 - 😄 Fun fact: I use Vim but I don't like i3wm!
 
