@@ -6,8 +6,8 @@
   I'm a Mikael, software developer!
 </h2>
 
-- 🔭 I’m currently working on [receitas 10](https://github.com/Mikael-R/receitas10)
-- 📒 I’m currently learning Vue
+- 🔭 I’m currently working on freelance projects
+- 📒 I’m currently learning Javascript Frameworks, Clean Code and Software Architecture
 - 💡 I’m looking for job oportunities as a software developer
 - 💬 Ask me about Javascript, Typescript and frameworks js
 - 😄 Fun fact: I don't like a light themes
