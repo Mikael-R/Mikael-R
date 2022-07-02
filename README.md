@@ -13,7 +13,7 @@
 - 😄 Fun fact: I don't like a light themes
 
 <h3>
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="22px"
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="22" height="22"
     alt="Drawing Cat Gif" />
   Connect with me:
 </h3>
