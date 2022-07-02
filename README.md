@@ -2,7 +2,6 @@
     alt="Mikael-R Profile Views" /> </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="32px" alt="Drawing Cat Gif">
   I'm a Mikael, software developer!
 </h2>
 
