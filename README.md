@@ -5,10 +5,9 @@
   I'm a Mikael, software developer!
 </h2>
 
-- 🔭 I’m currently working on freelance projects
-- 📒 I’m currently learning Javascript Frameworks, Clean Code and Software Architecture
-- 💡 I’m looking for job oportunities as a software developer
-- 💬 Ask me about Javascript, Typescript and frameworks js
+- 🔭 I’m currently working hard
+- 📒 I’m currently learning CI, Docker, Laravel, Javascript Frameworks, Clean Code, Software Architecture
+- 💬 Ask me about Docker, CI, Laravel, Linux, Javascript, Typescript and frameworks js
 - 😄 Fun fact: I don't like a light themes
 
 <h3>
