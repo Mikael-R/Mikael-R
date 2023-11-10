@@ -1,5 +1,3 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Mikael-R&label=Profile Views&color=blue&style=flat-square"
-    alt="Mikael-R Profile Views" /> </p>
 
 <h2 align="center">
   I'm a Mikael, software developer!
