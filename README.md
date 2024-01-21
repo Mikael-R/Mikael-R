@@ -32,39 +32,3 @@
       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </p>
-
-<br /><br />
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-
-  <!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#1](https://github.com/pdrodavi/appfinances/pull/1) in [pdrodavi/appfinances](https://github.com/pdrodavi/appfinances)
-2. ❌ Closed PR [#2](https://github.com/renatoReboucas/receitas10/pull/2) in [renatoReboucas/receitas10](https://github.com/renatoReboucas/receitas10)
-3. 🎉 Merged PR [#2](https://github.com/Mikael-R/receitas10/pull/2) in [Mikael-R/receitas10](https://github.com/Mikael-R/receitas10)
-4. 🎉 Merged PR [#1](https://github.com/Mikael-R/receitas10/pull/1) in [Mikael-R/receitas10](https://github.com/Mikael-R/receitas10)
-5. 💪 Opened PR [#4](https://github.com/renatoReboucas/receitas10/pull/4) in [renatoReboucas/receitas10](https://github.com/renatoReboucas/receitas10)
-  [filipedeschamps/ideia-unica](https://github.com/filipedeschamps/ideia-unica)
-  4. 🎉 Merged PR [#39](https://github.com/password-generator/password-generator-web/pull/39) in
-  [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-  5. ❗️ Closed issue [#37](https://github.com/password-generator/password-generator-web/issues/37) in
-  [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-  <!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <a href="https://github.com/Mikael-R">
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=Mikael-R&show_icons=true&theme=white&line_height=27"
-      alt="Mikael-R github stats" />
-  </a>
-
-  <a>
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-R&layout=compact&theme=white"
-      alt="Mikael-R most used languages" />
-  </a>
-</details>
